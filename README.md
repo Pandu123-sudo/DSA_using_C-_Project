@@ -66,71 +66,9 @@ Exiting...
 Thank you for playing!
 
 
-=== Code Execution Successful ===
-
+=== Code Execution Successful ==
 
 ## Output 2
-
-1. Add Task
-2. List Tasks by Priority
-3. Remove Task
-4. Exit
-Choose an option: 1
-Enter task description: have to purchase groceries
-Choose a category: 
-1. Work
-2. Personal
-3. Study
-4. Shopping
-5. Other
-2
-Enter priority (1-5): 1
-Enter due date (YYYY-MM-DD) or leave empty if not applicable: 2024-07-25
-Past Due Tasks:
-No past due tasks.
-1. Add Task
-2. List Tasks by Priority
-3. Remove Task
-4. Exit 
-
-Choose an option: 2
-
-Task 1:
-
-Description: have to purchase groceries
-
-Category: Personal
-
-Priority: 1
-
-Due Date: 2024-07-25
-
----------------------------
-Past Due Tasks:
-No past due tasks.
-1. Add Task
-2. List Tasks by Priority
-3. Remove Task
-4. Exit
-Choose an option: 3
-Enter task index to remove: 1
-1. Add Task
-2. List Tasks by Priority
-3. Remove Task
-4. Exit
-Choose an option: 2
-Past Due Tasks:
-No past due tasks.
-1. Add Task
-2. List Tasks by Priority
-3. Remove Task
-4. Exit
-Choose an option: 4
-
-
-=== Code Execution Successful ===
-
-## Output 3
 
 Menu:
 1. Add User
@@ -174,6 +112,60 @@ Menu:
 9. Display Group Info
 10. Exit
 Enter your choice: 10
+
+
+=== Code Execution Successful ===
+
+##  OutPut 3
+
+1. Add Task
+2. List Tasks by Priority
+3. Remove Task
+4. Exit
+Choose an option: 1
+Enter task description: have to purchase groceries
+Choose a category: 
+1. Work
+2. Personal
+3. Study
+4. Shopping
+5. Other
+2
+Enter priority (1-5): 1
+Enter due date (YYYY-MM-DD) or leave empty if not applicable: 2024-07-25
+Past Due Tasks:
+No past due tasks.
+1. Add Task
+2. List Tasks by Priority
+3. Remove Task
+4. Exit
+Choose an option: 2
+Task 1:
+Description: have to purchase groceries
+Category: Personal
+Priority: 1
+Due Date: 2024-07-25
+---------------------------
+Past Due Tasks:
+No past due tasks.
+1. Add Task
+2. List Tasks by Priority
+3. Remove Task
+4. Exit
+Choose an option: 3
+Enter task index to remove: 1
+1. Add Task
+2. List Tasks by Priority
+3. Remove Task
+4. Exit
+Choose an option: 2
+Past Due Tasks:
+No past due tasks.
+1. Add Task
+2. List Tasks by Priority
+3. Remove Task
+4. Exit
+Choose an option: 4
 
 
 === Code Execution Successful ===
